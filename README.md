@@ -10,6 +10,8 @@
 * Item 6 - branch christelle3
 * Item 7 - branch christelle2
 
+test2
+
 **bold**
 
 *italic*
